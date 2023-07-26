@@ -5,5 +5,5 @@
 pip install pandas
 pip install mysql-connector-python
 ```
-2. Open the Jupyter notebook and replace the value of  `host`,  `user`,  `password`,  `database` by your credential
+2. Open the Jupyter notebook mysql_connections.ipynb and replace the value of  `host`,  `user`,  `password`,  `database` by your credential
 3. Execute the Jupyter notebook
